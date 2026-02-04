@@ -158,7 +158,7 @@ const paintings = [
     dimensions: '30" L x 24" W',
     description: "",
     image: "images/Safford344370_3small.jpg"
-  }
+  },
 ];
 /*
   {
@@ -172,6 +172,7 @@ const paintings = [
 ];
 
 */
+
 
 
 
