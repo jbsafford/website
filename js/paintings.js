@@ -143,7 +143,7 @@ const paintings = [
     description: "",
     image: "images/asian_collared_dove.jpg"
   },
-  {
+ // {
     id: 16,
     title: "Untitled",
     medium: "Oil on canvas",
@@ -172,6 +172,7 @@ const paintings = [
 ];
 
 */
+
 
 
 
