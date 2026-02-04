@@ -143,22 +143,6 @@ const paintings = [
     description: "",
     image: "images/asian_collared_dove.jpg"
   },
-  {
-    id: 16,
-    title: -,
-    medium: "Oil on canvas",
-    dimensions: '-" L x -" W',
-    description: "",
-    image: "images/Safford344370_1small.jpg"
-  },
-  {
-    id: 17,
-    title: -,
-    medium: "Oil on canvas",
-    dimensions: '-" L x -" W',
-    description: "",
-    image: "images/Safford344370_3small.jpg"
-  },
 ];
 /*
   {
@@ -172,3 +156,4 @@ const paintings = [
 ];
 
 */
+
