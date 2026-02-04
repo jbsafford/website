@@ -145,7 +145,7 @@ const paintings = [
   },
   {
     id: 16,
-    title: ,
+    title: "Untitled",
     medium: "Oil on canvas",
     dimensions: '" L x " W',
     description: "",
@@ -153,7 +153,7 @@ const paintings = [
   },
   {
     id: 17,
-    title: ,
+    title: "Untitled",
     medium: "Oil on canvas",
     dimensions: '" L x " W',
     description: "",
@@ -172,6 +172,7 @@ const paintings = [
 ];
 
 */
+
 
 
 
