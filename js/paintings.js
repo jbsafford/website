@@ -145,17 +145,17 @@ const paintings = [
   },
   {
     id: 16,
-    title: -,
+    title: ,
     medium: "Oil on canvas",
-    dimensions: '-" L x -" W',
+    dimensions: '" L x " W',
     description: "",
     image: "images/Safford344370_1small.jpg"
   },
   {
     id: 17,
-    title: -,
+    title: ,
     medium: "Oil on canvas",
-    dimensions: '-" L x -" W',
+    dimensions: '" L x " W',
     description: "",
     image: "images/Safford344370_3small.jpg"
   }
@@ -172,5 +172,6 @@ const paintings = [
 ];
 
 */
+
 
 
