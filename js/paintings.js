@@ -158,6 +158,14 @@ const paintings = [
     dimensions: '20" L x 16" W',
     description: "",
     image: "images/Safford344370_3small.jpg"
+  },
+  {
+    id: 18,
+    title: "Sandhill Crane",
+    medium: "Oil on canvas",
+    dimensions: '36" L x 24" W',
+    description: "",
+    image: "images/SaffordFFScrane.jpg"
   }
 ];
 /*
@@ -172,6 +180,7 @@ const paintings = [
 ];
 
 */
+
 
 
 
