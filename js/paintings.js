@@ -145,17 +145,17 @@ const paintings = [
   },
   {
     id: 16,
-    title: "Untitled",
+    title: "Violet Bird in Greenery",
     medium: "Oil on canvas",
-    dimensions: '30" L x 24" W',
+    dimensions: '18" L x 14" W',
     description: "",
     image: "images/Safford344370_1small.jpg"
   },
   {
     id: 17,
-    title: "Untitled",
+    title: "Quiet Feathers",
     medium: "Oil on canvas",
-    dimensions: '30" L x 24" W',
+    dimensions: '20" L x 16" W',
     description: "",
     image: "images/Safford344370_3small.jpg"
   }
@@ -172,6 +172,7 @@ const paintings = [
 ];
 
 */
+
 
 
 
