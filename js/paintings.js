@@ -167,7 +167,7 @@ const paintings = [
     description: "",
     image: "images/SaffordFFScrane.jpg"
   },
-    {
+  {
     id: 19,
     title: "White Pelican",
     medium: "Oil on canvas",
@@ -175,7 +175,7 @@ const paintings = [
     description: "",
     image: "images/03_View.jpg"
   },
-    {
+  {
     id: 20,
     title: "Road Runner",
     medium: "Oil on canvas",
@@ -183,7 +183,7 @@ const paintings = [
     description: "",
     image: "images/05_View.jpg"
   },
-    {
+  {
     id: 21,
     title: "A June Bird",
     medium: "Oil on canvas",
