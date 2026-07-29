@@ -166,7 +166,31 @@ const paintings = [
     dimensions: '36" L x 24" W',
     description: "",
     image: "images/SaffordFFScrane.jpg"
-  }
+  },
+    {
+    id: 19,
+    title: "White Pelican",
+    medium: "Oil on canvas",
+    dimensions: '18" L x 21" W',
+    description: "",
+    image: "images/03_View.jpg"
+  },
+    {
+    id: 20,
+    title: "Road Runner",
+    medium: "Oil on canvas",
+    dimensions: '16" L x 20" W',
+    description: "",
+    image: "images/05_View.jpg"
+  },
+    {
+    id: 21,
+    title: "A June Bird",
+    medium: "Oil on canvas",
+    dimensions: '14" L x 18" W',
+    description: "",
+    image: "images/04_View.jpg"
+  },
 ];
 /*
   {
