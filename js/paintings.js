@@ -190,7 +190,7 @@ const paintings = [
     dimensions: '14" L x 18" W',
     description: "",
     image: "images/04_View.jpg"
-  },
+  }
 ];
 /*
   {
