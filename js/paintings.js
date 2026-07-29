@@ -177,19 +177,19 @@ const paintings = [
   },
   {
     id: 20,
-    title: "Road Runner",
-    medium: "Oil on canvas",
-    dimensions: '16" L x 20" W',
-    description: "",
-    image: "images/05_View.jpg"
-  },
-  {
-    id: 21,
     title: "A June Bird",
     medium: "Oil on canvas",
     dimensions: '14" L x 18" W',
     description: "",
     image: "images/04_View.jpg"
+  },
+  {
+    id: 21,
+    title: "Road Runner",
+    medium: "Oil on canvas",
+    dimensions: '16" L x 20" W',
+    description: "",
+    image: "images/05_View.jpg"
   }
 ];
 /*
